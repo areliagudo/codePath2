@@ -2,7 +2,7 @@
 
 ### Displays a question and answer
 
-<img src="http://recordit.co/N2Anjk2YZr" width=200><br>
+<img src="http://g.recordit.co/N2Anjk2YZr.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
