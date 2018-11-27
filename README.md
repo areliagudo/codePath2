@@ -7,6 +7,31 @@ The app provides the user the ability to create a new card and to cancel the cre
 <img src="file:///Users/areliagudo/Downloads/2018-11-06%2010.08.48.gif
 " width=200><br>
 
+
+## Lab 3
+
+### App Description
+`TODO:// The app allows the user to create and save flashcards
+
+### App Walk-though
+
+
+
+
+
+<img src="Nov-26-2018 16-37-30.gif" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
+## Required
+- [ ] User can create a card and still see their created card when the app is relaunched.
+- [ ] User can create muliple cards and browse through all created cards
+
+## Optional
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
 - [x] The 'Add Card Screen' has a cancel button to take the user back to the main screen
