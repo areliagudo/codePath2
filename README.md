@@ -1,11 +1,4 @@
-## Lab 2
 
-### App Description
-The app provides the user the ability to create a new card and to cancel the creation of a new card
-
-### App Walk-though
-<img src="file:///Users/areliagudo/Downloads/2018-11-06%2010.08.48.gif
-" width=200><br>
 
 
 ## Lab 3
@@ -48,7 +41,14 @@ The app provides the user the ability to create a new card and to cancel the cre
 
 
 
+## Lab 2
 
+### App Description
+The app provides the user the ability to create a new card and to cancel the creation of a new card
+
+### App Walk-though
+<img src="file:///Users/areliagudo/Downloads/2018-11-06%2010.08.48.gif
+" width=200><br>
 
 
 ## codePath2
