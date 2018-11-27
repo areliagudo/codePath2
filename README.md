@@ -7,18 +7,11 @@
 `TODO:// The app allows the user to create and save flashcards
 
 ### App Walk-though
-
-
-
-
-
-<img src="Nov-26-2018 16-37-30.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+// <img src="" width=200><br> gif is under a file
 
 ## Required
-- [ ] User can create a card and still see their created card when the app is relaunched.
-- [ ] User can create muliple cards and browse through all created cards
+- [x] User can create a card and still see their created card when the app is relaunched.
+- [x] User can create muliple cards and browse through all created cards
 
 ## Optional
 - [ ] User can delete a card and no longer see it in their deck anymore
